@@ -1,15 +1,15 @@
 ![Banner](Python_Github_Banner.png)
 
-- [Variables](01_variables.md)
-  - [Resolución Ejercicios](01_variable_ejercicios.py)
+- [Variables](./01_variables/01_variables.md)
+  - [Resolución Ejercicios](./01_variables/01_variable_ejercicios.py)
 
-- [Tipo de datos](02_tipo_datos.md)
+- [Tipo de datos](./02_tipo_de_datos/02_tipo_datos.md)
 
-- [Operadores](03_operadores.md)
+- [Operadores](./03_operadores/03_operadores.md)
 
-- [Cadena de texto](04_cadena_texto.md)
+- [Cadena de texto](./04_cadenas_de_texto/04_cadena_texto.md)
 
-- [Tuplas](05_tuplas.md)
+- [Tuplas](./05_tuplas/05_tuplas.md)
 
 
 
