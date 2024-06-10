@@ -1,15 +1,13 @@
 ![Banner](Python_Github_Banner.png)
 
-- [Variables](./01_variables/01_variables.md)
-  - [Resolución Ejercicios](./01_variables/01_variable_ejercicios.py)
-
-- [Tipo de datos](./02_tipo_de_datos/02_tipo_datos.md)
-
-- [Operadores](./03_operadores/03_operadores.md)
-
-- [Cadena de texto](./04_cadenas_de_texto/04_cadena_texto.md)
-
-- [Tuplas](./05_tuplas/05_tuplas.md)
+  - [Variables](./Python/01_variables/01_variables.md)
+    - [Resolucion Ejercicios](./Python/01_variables/01_variable_ejercicios.py)
+  - [Tipo de Datos](./Python/02_tipo_de_datos/02_tipo_datos.md)
+    - [Resolucion Ejercicios](./Python/02_tipo_de_datos/02_tipo_datos_ejercicios.py)
+  - [Operadores](./Python/03_operadores/03_operadores.md)
+    - [Resolucion Ejercicios](./Python/03_operadores/03_operadores_ejercicios.py)
+  - [Cadena de Texto](./Python/04_cadenas_de_texto/04_cadena_texto.md)
+  - [Tuplas](./Python/05_tuplas/05_tuplas.md)
 
 
 
