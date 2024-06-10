@@ -58,6 +58,17 @@ alumno = {'nombre': 'Ana', 'edad': 15, 'curso': 'Matematicas'}
 frutas = {'manzana', 'naranja', 'platano'}
 ```
 
+### EJERCICIOS DE LA UNIDAD
+```
+- Solicite al usuario ingresar datos de tipo (int).
+- Solicite al usuario ingresar datos de tipo (float).
+- Solicite al usuario ingresar datos de tipo (str).
+- Solicite al usuario ingresar datos de tipo (bool).
+
+- Concatene las variables ingresadas por el usuario, estas deben tener relacion entre si.
+
+```
+
 
 -----
 <div align="center">Code With ❤️ Trebol <div>
