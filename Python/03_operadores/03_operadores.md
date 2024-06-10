@@ -124,6 +124,19 @@ no_esta_lloviendo = not esta_lloviendo
 print(no_esta_lloviendo) # Imprime False
 ```
 
+### EJERCICIOS REALIZADOS CON LA UNIDAD
+
+```
+- Declara tu edad como variable entera.
+- Declara tu altura como una variable flotante.
+- Declara una variable que almacene un número complejo.
+- Escribe un script que solicite al usuario que ingrese la base y la altura del triángulo y calcule el área de este triangulo.
+- Escribe un script que solicite al usuario que ingrese el lado a, el lado b y el lado c del triángulo. Calcule el perímetro del triángulo (perimetro = a + b + c)
+- Obtenga el largo y el ancho de un rectángulo usando el mensaje. calcule su área (área = largo x ancho) y el perímetro (perimetro = 2 x (largo + ancho )).
+- Utilice un operador para comprobar si 'on' se encuentra tanto en 'python' como en 'dragon'.
+
+```
+
 -----
 <div align="center">Code With ❤️ Trebol <div>
 <small> Edición: Mayo, 2024</small><br>

@@ -45,7 +45,7 @@ print(nombre, apellido_ap, edad, es_casado)
 ```
 
 ### EJERCICIOS REALIZADOS CON LA UNIDAD
-```
+
 - Declara una variable de nombre y asignale valor
 - Declarar variable apellido y asignale valor.
 - Declara una variable de nombre completo y asignale valor.
