@@ -119,6 +119,56 @@ tpl = ('item1', 'item2', 'item3', 'item4')
 all_items = tpl[-4:]
 middle_two_items = tpl[-3:-1]
 ```
+```py
+fruits = ('banana', 'orange', 'mango', 'lemon')
+all_fruits = fruits[-4:]    # all items
+orange_mango = fruits[-3:-1]  # doesn't include item at index 3
+orange_to_the_rest = fruits[-3:]
+```
+
+### Cambiar de tuplas a listas.
+Existen dos formas para convertir tuplas en listas.
+
+- Utilizando la funcion `list()`: La función `list` crea una nueva lista a partir de un iterable, como una tupla. Es una forma sencilla y rápida de realizar la conversión.
+
+```py
+nueva_lista = list(tupla)
+``` 
+
+#### Ejemplo:
+```py
+tupla = ('Elemento1', 'Elemento2', 'Elemento3')
+lista_convertida = list(tupla)
+print(f'Tupla original: {tupla}')
+print(f'Lista convertida: {lista_convertida}')
+```
+
+- Usando un bucle `for` se puede utilizar para recorrer la tupla y agregar cada elemento a una nueva lista. Este método es útil si se necesita realizar alguna operación adicional con cada elemento antes de agregarlo a la lista.
+
+  - Diferencia entre los 2 métodos:
+    - `list`: Es más rápido y simple para conversiones directas.
+    - `bucle`: Ofrece más flexibilidad para realizar operaciones con los elementos antes de agregarlos a la lista.
+
+```py
+nueva_lista = []
+  for elemento in tupla:
+    nueva_lista.append(elemento)
+```
+
+#### Ejemplo:
+
+```py
+tupla = ('elemento1', 'elemento2', 'elemento3')
+lista = convertida = []
+
+for elemento in tupla:
+  lista_convertida.append(elemento)
+
+print(f'Tupla original: {tupla}')
+print(f'Lista_convertida: {lista_convertida}')
+```
+
+### Comprobar un elemento en una tupla.
 
 -----
 <div align="center">Code With ❤️ Trebol <div>
