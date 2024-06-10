@@ -5,7 +5,7 @@
   <small> Edición: Mayo, 2024, Chile</small>
 </div>
 
-![Banner](Python_Github_Banner.png)
+![Banner](../Python_Github_Banner.png)
 -----
 
 En python, los tipos de datos son elementos básicos que representan la información que se procesa en un programa, cada tipo de dato tiene características y usos especificos.

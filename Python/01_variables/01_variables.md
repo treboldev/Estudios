@@ -5,7 +5,7 @@
   <small> Edición: Mayo, 2024, Chile</small>
 </div>
 
-![Banner](Python_Github_Banner.png)
+![Banner](../Python_Github_Banner.png)
 
 # VARIABLES
 
