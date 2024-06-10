@@ -35,8 +35,90 @@ frutas = ('manzana', 'platano', 'naranja')
 - Pasar datos como argumentos a funciones.
 - Devolver múltiples valores desde una función.
 
+### Tupla vacia
 
+```py
+#Syntaxis
+tupla_vacia = ()
+# Usando constructor de tupla
+tupla_vacia = tuple()
+```
 
+### Tupla con valores iniciales.
+```py
+# Syntaxis
+tpl = ('item1', 'item2', 'item3')
+frutas = ('Platanos', 'Naranjas', 'Mango', 'Limon')
+```
+
+### Longitud de una tupla
+usaremos el método len() para obtener la longitu de una tupla.
+
+```py
+tpl = ('item1', 'item2', 'item3')
+len(tpl)
+```
+
+### Accediendo a una tupla
+ - Indexación positiva de manera similar al tipo de datos de lista, utilizamos indexación positiva o negativa para acceder a elementos de tupla.
+
+```py
+# Syntaxis
+tpl = ('iem1', 'item2', 'item3')
+primer_item = tpl[0]
+segundo_item = tpl[1]
+```
+
+```py
+frutas = ('Platanos', 'Naranjas', 'Mango', 'Limon')
+primera_fruta = frutas[0]
+segunda_fruta = frutas[1]
+ultimo_indice = len(frutas) - 1
+ultima_fruta = frutas[las_index]
+```
+
+- Indexación negativa. la indexación negativa significa comenzar desde el final, -1 se refiere al último elemento, -2 se refiere al penultimo y el negativo de la longitud de la lista/tupla se refiere al primer elemento.
+
+```py
+# Syntaxis
+tpl = ('item1', 'item2', 'item3', 'item4')
+primer_item = tpl[-4]
+segundo_item = tpl[-3]
+```
+```py
+frutas = ('Platano', 'Naranjas', 'Mango', 'Limon')
+primera_fruta = frutas[-4]
+segunda_fruta = frutas[-3]
+ultima_gruta = frutas[-1]
+```
+
+### Dividir tuplas.
+podemos dividir una subtupla especificando un rango de índice donde comenzar y dónde terminar en la tupla; el valor de retorno será una nueva tupla con los elementos especificados.
+
+- Rango de índice positivo.
+```py
+# Syntaxis
+tpl = ('item1', 'item2', 'item3', 'item4')
+all_item = tpl[0:4]
+all_item = tpl[0:]
+moddle_two_items = tpl[1:3]
+```
+
+```py
+frutas = ('Platano', 'Naranja', 'Mango' ,'Limon')
+all_fruits = frutas[0:4]
+all_fruits = frutas[0:]
+naranja_mango = frutas[1:3]
+naranja_rest = frutas[1:]
+```
+
+- Rango de índice negativo.
+
+```py
+tpl = ('item1', 'item2', 'item3', 'item4')
+all_items = tpl[-4:]
+middle_two_items = tpl[-3:-1]
+```
 
 -----
 <div align="center">Code With ❤️ Trebol <div>
