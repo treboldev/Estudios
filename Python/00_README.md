@@ -1,5 +1,31 @@
 ![Banner](Python_Github_Banner.png)
 
+## Características de Python
+
+- Sintaxis simple y legigle.
+- Tipado dinámico. 
+- Amplia biblioteca estándar.
+- Gran cantidad de módulos y paquetes de terceros.
+- Multiplataforma.
+- Comunidad activa y creciente.
+
+## Ventajas de aprender python
+
+- Facil de aprender.
+- Alta demanda laboral.
+- Versatil.
+
+## Aplicaciones y campos de uso.
+
+- Desarrollo web.
+- Ciencia de datos.
+- Inteligencia artificial y aprendizaje automático.
+- Automatización y scripting.
+- Desarrollo de videojuegos.
+
+
+## Contenido
+
   - [Variables](./Python/01_variables/01_variables.md)
     - [Resolucion Ejercicios](./Python/01_variables/01_variable_ejercicios.py)
   - [Tipo de Datos](./Python/02_tipo_de_datos/02_tipo_datos.md)
