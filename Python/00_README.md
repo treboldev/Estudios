@@ -1,6 +1,7 @@
 ![Banner](Python_Github_Banner.png)
 
-## Características de Python
+
+<div align="center"><h2>Caracteristicas de python</h2></div>
 
 - Sintaxis simple y legigle.
 - Tipado dinámico. 
@@ -9,19 +10,30 @@
 - Multiplataforma.
 - Comunidad activa y creciente.
 
-## Ventajas de aprender python
+
+<div align="center"><h2> Ventajas de aprender Python</h2></div>
 
 - Facil de aprender.
 - Alta demanda laboral.
 - Versatil.
 
-## Aplicaciones y campos de uso.
+<div align="center"><h2>Aplicaciones y campos de uso</h2></div>
 
 - Desarrollo web.
 - Ciencia de datos.
 - Inteligencia artificial y aprendizaje automático.
 - Automatización y scripting.
 - Desarrollo de videojuegos.
+
+
+
+<div align="center"><h2>Qué es un entorno virtual</h2></div>
+
+
+- Espacios aislados donde puedes instalar paquetes y dependencias específicas para tu proyecto.
+- Cada entorno virtual tiene su propia instalación de Python.
+- Puede tener su propias versión de cada paquete que instales, comloletamente separado del sistema y de otros entornos virtuales.
+
 
 
 ## Contenido
