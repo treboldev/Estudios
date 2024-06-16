@@ -51,6 +51,7 @@
   - [Listas](./06_listas/06_listas.md)
   - [Tuplas](./07_tuplas/07_tuplas.md)
   - [Conjuntos](./08_conjuntos/08_conjuntos.md)
+  - [Diccionarios](./09_diccionarios/09_diccionarios.md)
 
 <div align="center">
   <a href="https://www.instagram.com/treboldev/" target="_blank">
