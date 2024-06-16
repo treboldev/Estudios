@@ -1,5 +1,6 @@
 ![Banner](/Python/Python_Github_Banner.png)
 
+
 <div align="center"><h2>Función Print</h2></div>
 
 La función `print()` es una función básica y versátil que se utiliza para mostrar texto en consola. Es una de las primeras funciones que se aprende al comenzar a programar con Python, y se utiliza en casi todos los programas. 

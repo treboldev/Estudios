@@ -54,9 +54,15 @@ frutas.insert(1, "Kiwi")        # Inserta "Kiwi" en la posición 1 de la lista.
 Las listas en Python soportan una amplia gama de operaciones, como:
 
 - ***Concatenación:*** Unir dos o más listas.
+  
 - ***Repetición:*** Repetir una lista un número especifico de veces.
+  
 - ***Búsqueda:*** Encontrar un elemento específico dentro de una lista.
+  
 - ***Ordenamiento:*** Ordena los elementos de una lista según un criterio.
+  
 - ***Inversión:*** Invertir el orden de los elementos de una lista.
+  
 - ***Comprobación de pertenencia:*** Verificar si un elemento pertenece a una lista.
+  
 - ***Obtención de longitud:*** Obtener el n´umero de elementos de una lista.
