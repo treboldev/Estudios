@@ -46,7 +46,8 @@
   - [Función Print()](./01_print/01_print.md)
   - [Variables](./02_variables/02_variables.md)
   - [Tipo de datos](./03_tipos_de_datos/03_tipos_de_datos.md)
-  - [operadores](./04_operadores/04_operadores.md)
+  - [Operadores](./04_operadores/04_operadores.md)
+  - [Cadenas de texto](./05_cadena_texto/05_cadena_texto.md)
 
 
 <div align="center">
