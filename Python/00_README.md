@@ -44,6 +44,7 @@
 ## Contenido
 
   - [Función Print()](./01_print/01_print.md)
+  - [Variables](./02_variables/02_variables.md)
 
 
 <div align="center">

@@ -3,6 +3,7 @@
 ![Banner](./Python/Python_Github_Banner.png)
 
   - [Función Print()](./Python/01_print/01_print.md)
+  - [Variables](./Python/02_variables/02_variables.md)
 
 
 
