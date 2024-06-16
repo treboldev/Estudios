@@ -32,7 +32,7 @@
 
 - Espacios aislados donde puedes instalar paquetes y dependencias específicas para tu proyecto.
 - Cada entorno virtual tiene su propia instalación de Python.
-- Puede tener su propias versión de cada paquete que instales, comloletamente separado del sistema y de otros entornos virtuales.
+- Puede tener su propias versión de cada paquete que instales, completamente separado del sistema y de otros entornos virtuales.
 
 <div align="center"><h2>Instalación Python</h2></div>
 
@@ -45,6 +45,7 @@
 
   - [Función Print()](./01_print/01_print.md)
   - [Variables](./02_variables/02_variables.md)
+  - [Tipo de datos](./03_tipos_de_datos/03_tipos_de_datos.md)
 
 
 <div align="center">
