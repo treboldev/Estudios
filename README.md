@@ -9,6 +9,7 @@
   - [Cadenas de texto](./Python/05_cadena_texto/05_cadena_texto.md)
   - [Listas](./Python/06_listas/06_listas.md)
   - [Tuplas](./Python/07_tuplas/07_tuplas.md)
+  - [Conjuntos](./Python/08_conjuntos/08_conjuntos.md)
 
 
 

@@ -50,6 +50,7 @@
   - [Cadenas de texto](./05_cadena_texto/05_cadena_texto.md)
   - [Listas](./06_listas/06_listas.md)
   - [Tuplas](./07_tuplas/07_tuplas.md)
+  - [Conjuntos](./08_conjuntos/08_conjuntos.md)
 
 <div align="center">
   <a href="https://www.instagram.com/treboldev/" target="_blank">
