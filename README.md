@@ -5,6 +5,7 @@
   - [Función Print()](./Python/01_print/01_print.md)
   - [Variables](./Python/02_variables/02_variables.md)
   - [Tipo de Datos](./Python/03_tipos_de_datos/03_tipos_de_datos.md)
+  - [Operadores](./Python/04_operadores/04_operadores.md)
 
 
 

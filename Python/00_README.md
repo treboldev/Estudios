@@ -46,6 +46,7 @@
   - [Función Print()](./01_print/01_print.md)
   - [Variables](./02_variables/02_variables.md)
   - [Tipo de datos](./03_tipos_de_datos/03_tipos_de_datos.md)
+  - [operadores](./04_operadores/04_operadores.md)
 
 
 <div align="center">
