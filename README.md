@@ -7,6 +7,7 @@
   - [Tipo de Datos](./Python/03_tipos_de_datos/03_tipos_de_datos.md)
   - [Operadores](./Python/04_operadores/04_operadores.md)
   - [Cadenas de texto](./Python/05_cadena_texto/05_cadena_texto.md)
+  - [Listas](./Python/06_listas/06_listas.md)
 
 
 

@@ -48,7 +48,7 @@
   - [Tipo de datos](./03_tipos_de_datos/03_tipos_de_datos.md)
   - [Operadores](./04_operadores/04_operadores.md)
   - [Cadenas de texto](./05_cadena_texto/05_cadena_texto.md)
-
+  - [Listas](./06_listas/06_listas.md)
 
 <div align="center">
   <a href="https://www.instagram.com/treboldev/" target="_blank">
