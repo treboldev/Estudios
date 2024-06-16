@@ -1,6 +1,6 @@
 ![Banner](/Python/Python_Github_Banner.png)
 
-<div align="center"><h2>Tipos de datos</h2></div>
+<div align="center"><h1>Tipos de datos</h2></div>
 
 En python, los tipos de datos son elementos básicos que se utilizan para almacenar y manipular información. Cada tipo de dato tiene sus propias caracteristicas y se utilizan para representar diferentes tipos de valores.
 
