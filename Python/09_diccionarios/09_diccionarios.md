@@ -1,7 +1,7 @@
 ![Banner](../Python_Github_Banner.png)
 
 
-<div align="center"><h2>Conjuntos</h2></div>
+<div align="center"><h2>Diccionarios</h2></div>
 
 Los diccionarios `dicts()` en python son un tipo de dato **mutable** que se utilizan para almacenar colecciones **desordenadas** de pares **clave-valor**. Esto significa que cada elemento en un diccionario se asocia con una clave única, y el valor puede ser de cualquier tipo de dato en python. Los diccionarios son útiles para representar datos estructurados, como información de contacto, configuraciones de aplicación o datos de bases de datos.
 
