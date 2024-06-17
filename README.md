@@ -11,6 +11,7 @@
   - [Tuplas](./Python/07_tuplas/07_tuplas.md)
   - [Conjuntos](./Python/08_conjuntos/08_conjuntos.md)
   - [Diccionarios](./Python/09_diccionarios/09_diccionarios.md)
+  - [Condicionales](./Python/10_condicionales/10_condicionales.md)
 
 
 
