@@ -53,6 +53,7 @@
   - [Conjuntos](./08_conjuntos/08_conjuntos.md)
   - [Diccionarios](./09_diccionarios/09_diccionarios.md)
   - [Condicionales](./10_condicionales/10_condicionales.md)
+  - [Bucles](./11_bucle/11_bucle.md)
 
 <div align="center">
   <a href="https://www.instagram.com/treboldev/" target="_blank">
