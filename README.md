@@ -13,6 +13,7 @@
   - [Diccionarios](./Python/09_diccionarios/09_diccionarios.md)
   - [Condicionales](./Python/10_condicionales/10_condicionales.md)
   - [Bucles](./Python/11_bucle/11_bucle.md)
+  - [Funciones](./Python/12_funciones/12_funciones.md)
 
 
 
